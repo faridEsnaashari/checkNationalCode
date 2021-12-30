@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/checkNationalCode/static/css/main.a725c743.chunk.css",
+    "main.js": "/checkNationalCode/static/js/main.fee14d49.chunk.js",
+    "main.js.map": "/checkNationalCode/static/js/main.fee14d49.chunk.js.map",
+    "runtime-main.js": "/checkNationalCode/static/js/runtime-main.133cc274.js",
+    "runtime-main.js.map": "/checkNationalCode/static/js/runtime-main.133cc274.js.map",
+    "static/js/2.d56c7b0a.chunk.js": "/checkNationalCode/static/js/2.d56c7b0a.chunk.js",
+    "static/js/2.d56c7b0a.chunk.js.map": "/checkNationalCode/static/js/2.d56c7b0a.chunk.js.map",
+    "index.html": "/checkNationalCode/index.html",
+    "static/css/main.a725c743.chunk.css.map": "/checkNationalCode/static/css/main.a725c743.chunk.css.map",
+    "static/js/2.d56c7b0a.chunk.js.LICENSE.txt": "/checkNationalCode/static/js/2.d56c7b0a.chunk.js.LICENSE.txt",
+    "static/media/inputIcon.8909fe48.svg": "/checkNationalCode/static/media/inputIcon.8909fe48.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.133cc274.js",
+    "static/js/2.d56c7b0a.chunk.js",
+    "static/css/main.a725c743.chunk.css",
+    "static/js/main.fee14d49.chunk.js"
+  ]
+}
